@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesOpinionPoll\bin\Debug\DefiningClassesOpinionPoll.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesOpinionPoll\bin\Debug\DefiningClassesOpinionPoll.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesOpinionPoll\bin\Debug\DefiningClassesOpinionPoll.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesOpinionPoll\obj\Debug\DefiningClassesOpinionPoll.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesOpinionPoll\obj\Debug\DefiningClassesOpinionPoll.pdb

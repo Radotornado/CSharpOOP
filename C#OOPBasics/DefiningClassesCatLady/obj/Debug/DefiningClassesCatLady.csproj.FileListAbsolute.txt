@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCatLady\bin\Debug\DefiningClassesCatLady.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCatLady\bin\Debug\DefiningClassesCatLady.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCatLady\bin\Debug\DefiningClassesCatLady.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCatLady\obj\Debug\DefiningClassesCatLady.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCatLady\obj\Debug\DefiningClassesCatLady.pdb

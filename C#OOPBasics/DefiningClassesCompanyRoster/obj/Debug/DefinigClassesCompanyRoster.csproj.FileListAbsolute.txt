@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefinigClassesCompanyRoster\bin\Debug\DefinigClassesCompanyRoster.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefinigClassesCompanyRoster\bin\Debug\DefinigClassesCompanyRoster.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefinigClassesCompanyRoster\bin\Debug\DefinigClassesCompanyRoster.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefinigClassesCompanyRoster\obj\Debug\DefinigClassesCompanyRoster.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefinigClassesCompanyRoster\obj\Debug\DefinigClassesCompanyRoster.pdb

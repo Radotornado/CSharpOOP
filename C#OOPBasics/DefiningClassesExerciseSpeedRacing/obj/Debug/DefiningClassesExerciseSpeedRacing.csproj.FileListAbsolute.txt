@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\bin\Debug\DefiningClassesExerciseSpeedRacing.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\bin\Debug\DefiningClassesExerciseSpeedRacing.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\bin\Debug\DefiningClassesExerciseSpeedRacing.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\obj\Debug\DefiningClassesExerciseSpeedRacing.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\obj\Debug\DefiningClassesExerciseSpeedRacing.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesExerciseSpeedRacing\obj\Debug\DefiningClassesExerciseSpeedRacing.pdb

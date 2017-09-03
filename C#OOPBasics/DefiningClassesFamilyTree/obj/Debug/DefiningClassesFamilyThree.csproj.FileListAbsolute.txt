@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesFamilyThree\bin\Debug\DefiningClassesFamilyThree.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesFamilyThree\bin\Debug\DefiningClassesFamilyThree.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesFamilyThree\bin\Debug\DefiningClassesFamilyThree.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesFamilyThree\obj\Debug\DefiningClassesFamilyThree.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesFamilyThree\obj\Debug\DefiningClassesFamilyThree.pdb

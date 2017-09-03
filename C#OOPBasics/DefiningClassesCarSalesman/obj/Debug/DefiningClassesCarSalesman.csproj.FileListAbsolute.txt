@@ -1,0 +1,2 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesCarSalesman\bin\Debug\DefiningClassesCarSalesman.exe.config
+C:\Users\rado\Desktop\C#OOPBasics\DefiningClassesCarSalesman\bin\Debug\DefiningClassesCarSalesman.exe.config

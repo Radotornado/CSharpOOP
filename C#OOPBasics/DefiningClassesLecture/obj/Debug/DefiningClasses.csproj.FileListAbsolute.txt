@@ -1,0 +1,3 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClasses1\bin\Debug\DefiningClasses1.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClasses1\obj\Debug\DefiningClasses1.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClasses1\obj\Debug\DefiningClasses1.pdb

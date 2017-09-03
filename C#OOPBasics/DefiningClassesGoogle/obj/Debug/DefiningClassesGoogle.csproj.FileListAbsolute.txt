@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesGoogle\bin\Debug\DefiningClassesGoogle.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesGoogle\bin\Debug\DefiningClassesGoogle.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesGoogle\bin\Debug\DefiningClassesGoogle.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesGoogle\obj\Debug\DefiningClassesGoogle.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesGoogle\obj\Debug\DefiningClassesGoogle.pdb
