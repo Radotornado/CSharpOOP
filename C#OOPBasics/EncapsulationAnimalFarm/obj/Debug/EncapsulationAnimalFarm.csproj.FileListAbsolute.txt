@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\bin\Debug\EncapsulationAnimalFarm.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\bin\Debug\EncapsulationAnimalFarm.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\bin\Debug\EncapsulationAnimalFarm.pdb
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\obj\Debug\EncapsulationAnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\obj\Debug\EncapsulationAnimalFarm.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationAnimalFarm\obj\Debug\EncapsulationAnimalFarm.pdb

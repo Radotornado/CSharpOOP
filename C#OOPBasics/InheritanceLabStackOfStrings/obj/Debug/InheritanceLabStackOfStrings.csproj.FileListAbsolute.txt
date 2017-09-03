@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabStackOfStrings\bin\Debug\InheritanceLabStackOfStrings.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabStackOfStrings\bin\Debug\InheritanceLabStackOfStrings.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabStackOfStrings\bin\Debug\InheritanceLabStackOfStrings.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabStackOfStrings\obj\Debug\InheritanceLabStackOfStrings.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabStackOfStrings\obj\Debug\InheritanceLabStackOfStrings.pdb

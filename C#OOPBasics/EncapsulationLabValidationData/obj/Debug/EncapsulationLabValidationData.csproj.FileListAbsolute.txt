@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabValidationData\bin\Debug\EncapsulationLabValidationData.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabValidationData\bin\Debug\EncapsulationLabValidationData.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabValidationData\bin\Debug\EncapsulationLabValidationData.pdb
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabValidationData\obj\Debug\EncapsulationLabValidationData.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabValidationData\obj\Debug\EncapsulationLabValidationData.pdb

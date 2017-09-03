@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\PolymorphismMathOperation\bin\Debug\PolymorphismMathOperation.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\PolymorphismMathOperation\bin\Debug\PolymorphismMathOperation.exe
+C:\Users\rado\Desktop\DefiningClasses1\PolymorphismMathOperation\bin\Debug\PolymorphismMathOperation.pdb
+C:\Users\rado\Desktop\DefiningClasses1\PolymorphismMathOperation\obj\Debug\PolymorphismMathOperation.exe
+C:\Users\rado\Desktop\DefiningClasses1\PolymorphismMathOperation\obj\Debug\PolymorphismMathOperation.pdb

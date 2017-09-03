@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceMordorsCrueltyPlan\bin\Debug\InheritanceMordorsCrueltyPlan.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceMordorsCrueltyPlan\bin\Debug\InheritanceMordorsCrueltyPlan.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceMordorsCrueltyPlan\bin\Debug\InheritanceMordorsCrueltyPlan.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceMordorsCrueltyPlan\obj\Debug\InheritanceMordorsCrueltyPlan.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceMordorsCrueltyPlan\obj\Debug\InheritanceMordorsCrueltyPlan.pdb

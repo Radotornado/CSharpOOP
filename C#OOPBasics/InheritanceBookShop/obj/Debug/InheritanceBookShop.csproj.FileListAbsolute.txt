@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceBookShop\bin\Debug\InheritanceBookShop.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceBookShop\bin\Debug\InheritanceBookShop.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceBookShop\bin\Debug\InheritanceBookShop.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceBookShop\obj\Debug\InheritanceBookShop.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceBookShop\obj\Debug\InheritanceBookShop.pdb

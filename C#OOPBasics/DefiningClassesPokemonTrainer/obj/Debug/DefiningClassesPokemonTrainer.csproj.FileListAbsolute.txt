@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesPokemonTrainer\bin\Debug\DefiningClassesPokemonTrainer.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesPokemonTrainer\bin\Debug\DefiningClassesPokemonTrainer.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesPokemonTrainer\bin\Debug\DefiningClassesPokemonTrainer.pdb
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesPokemonTrainer\obj\Debug\DefiningClassesPokemonTrainer.exe
+C:\Users\rado\Desktop\DefiningClasses1\DefiningClassesPokemonTrainer\obj\Debug\DefiningClassesPokemonTrainer.pdb

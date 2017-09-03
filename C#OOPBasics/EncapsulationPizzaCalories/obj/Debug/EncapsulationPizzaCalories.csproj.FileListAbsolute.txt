@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationPizzaCalories\bin\Debug\EncapsulationPizzaCalories.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationPizzaCalories\bin\Debug\EncapsulationPizzaCalories.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationPizzaCalories\bin\Debug\EncapsulationPizzaCalories.pdb
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationPizzaCalories\obj\Debug\EncapsulationPizzaCalories.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationPizzaCalories\obj\Debug\EncapsulationPizzaCalories.pdb

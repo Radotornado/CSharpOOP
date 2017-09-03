@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\Methods\bin\Debug\Methods.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Methods\bin\Debug\Methods.exe
+C:\Users\rado\Desktop\DefiningClasses1\Methods\bin\Debug\Methods.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\Methods\obj\Debug\Methods.exe
+C:\Users\rado\Desktop\DefiningClasses1\Methods\obj\Debug\Methods.pdb

@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabSalaryIncrease\bin\Debug\EncapsulationLabSalaryIncrease.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabSalaryIncrease\bin\Debug\EncapsulationLabSalaryIncrease.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabSalaryIncrease\bin\Debug\EncapsulationLabSalaryIncrease.pdb
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabSalaryIncrease\obj\Debug\EncapsulationLabSalaryIncrease.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationLabSalaryIncrease\obj\Debug\EncapsulationLabSalaryIncrease.pdb

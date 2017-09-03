@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceOnlineRadioDatabase\bin\Debug\InheritanceOnlineRadioDatabase.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceOnlineRadioDatabase\bin\Debug\InheritanceOnlineRadioDatabase.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceOnlineRadioDatabase\bin\Debug\InheritanceOnlineRadioDatabase.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceOnlineRadioDatabase\obj\Debug\InheritanceOnlineRadioDatabase.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceOnlineRadioDatabase\obj\Debug\InheritanceOnlineRadioDatabase.pdb

@@ -1,0 +1,14 @@
+C:\Users\rado\Desktop\ \C#OOPBasics\na choveka zadachite\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.exe
+C:\Users\rado\Desktop\ \C#OOPBasics\na choveka zadachite\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.pdb
+C:\Users\rado\Desktop\ \C#OOPBasics\na choveka zadachite\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.exe.config
+C:\Users\rado\Desktop\ \C#OOPBasics\na choveka zadachite\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.exe
+C:\Users\rado\Desktop\ \C#OOPBasics\na choveka zadachite\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Practical Exam 10.07.2016\System Split\bin\Debug\System Split.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.exe
+C:\Users\rado\Desktop\DefiningClasses1\Practical Exam 10.07.2016\System Split\obj\Debug\System Split.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\System Split\bin\Debug\System Split.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\System Split\obj\Debug\System Split.exe
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\System Split\obj\Debug\System Split.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\bin\Debug\System Split.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\obj\Debug\System Split.exe
+C:\Users\rado\Desktop\DefiningClasses1\Exam10.07.2016SystemSplit\obj\Debug\System Split.pdb

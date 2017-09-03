@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceManking\bin\Debug\InheritanceManking.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceManking\bin\Debug\InheritanceManking.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceManking\bin\Debug\InheritanceManking.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceManking\obj\Debug\InheritanceManking.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceManking\obj\Debug\InheritanceManking.pdb

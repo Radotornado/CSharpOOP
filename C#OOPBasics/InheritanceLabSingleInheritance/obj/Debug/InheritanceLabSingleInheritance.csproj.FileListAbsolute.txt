@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabSingleInheritance\bin\Debug\InheritanceLabSingleInheritance.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabSingleInheritance\bin\Debug\InheritanceLabSingleInheritance.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabSingleInheritance\bin\Debug\InheritanceLabSingleInheritance.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabSingleInheritance\obj\Debug\InheritanceLabSingleInheritance.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabSingleInheritance\obj\Debug\InheritanceLabSingleInheritance.pdb

@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceAnimals\bin\Debug\InheritanceAnimals.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceAnimals\bin\Debug\InheritanceAnimals.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceAnimals\bin\Debug\InheritanceAnimals.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceAnimals\obj\Debug\InheritanceAnimals.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceAnimals\obj\Debug\InheritanceAnimals.pdb

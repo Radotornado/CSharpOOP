@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\bin\Debug\Avatar - 12 July 2017.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\bin\Debug\Avatar - 12 July 2017.exe
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\bin\Debug\Avatar - 12 July 2017.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\obj\Debug\Avatar - 12 July 2017.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\obj\Debug\Avatar - 12 July 2017.exe
+C:\Users\rado\Desktop\DefiningClasses1\Avatar - 12 July 2017\obj\Debug\Avatar - 12 July 2017.pdb

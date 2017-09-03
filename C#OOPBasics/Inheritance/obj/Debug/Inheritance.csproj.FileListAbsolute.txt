@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\rado\Desktop\DefiningClasses1\Inheritance\obj\Debug\Inheritance.pdb

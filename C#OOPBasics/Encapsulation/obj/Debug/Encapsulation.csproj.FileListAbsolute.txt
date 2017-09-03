@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\obj\Debug\Encapsulation.pdb

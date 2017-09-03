@@ -1,0 +1,6 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\bin\Debug\InheritancePerson.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\bin\Debug\InheritancePerson.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\bin\Debug\InheritancePerson.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\obj\Debug\InheritancePerson.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\obj\Debug\InheritancePerson.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritancePerson\obj\Debug\InheritancePerson.pdb

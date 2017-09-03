@@ -1,0 +1,2 @@
+C:\Users\rado\Desktop\DefiningClasses1\Minedraft\bin\Debug\Minedraft.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\ExamMinedraft\bin\Debug\Minedraft.exe.config

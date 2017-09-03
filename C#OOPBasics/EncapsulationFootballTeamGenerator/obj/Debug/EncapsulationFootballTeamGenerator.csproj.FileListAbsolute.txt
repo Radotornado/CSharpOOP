@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationFootballTeamGenerator\bin\Debug\EncapsulationFootballTeamGenerator.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationFootballTeamGenerator\bin\Debug\EncapsulationFootballTeamGenerator.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationFootballTeamGenerator\bin\Debug\EncapsulationFootballTeamGenerator.pdb
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationFootballTeamGenerator\obj\Debug\EncapsulationFootballTeamGenerator.exe
+C:\Users\rado\Desktop\DefiningClasses1\EncapsulationFootballTeamGenerator\obj\Debug\EncapsulationFootballTeamGenerator.pdb

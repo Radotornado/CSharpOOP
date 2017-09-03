@@ -1,0 +1,3 @@
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\rado\Desktop\DefiningClasses1\Encapsulation\obj\Debug\Encapsulation.pdb

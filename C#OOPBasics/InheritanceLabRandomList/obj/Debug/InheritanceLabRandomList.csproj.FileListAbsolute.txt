@@ -1,0 +1,5 @@
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabRandomList\bin\Debug\InheritanceLabRandomList.exe.config
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabRandomList\bin\Debug\InheritanceLabRandomList.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabRandomList\bin\Debug\InheritanceLabRandomList.pdb
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabRandomList\obj\Debug\InheritanceLabRandomList.exe
+C:\Users\rado\Desktop\DefiningClasses1\InheritanceLabRandomList\obj\Debug\InheritanceLabRandomList.pdb
